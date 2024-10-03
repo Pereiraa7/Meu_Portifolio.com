@@ -20,6 +20,7 @@ body {
   color: #7ed957;
 }
 .apresentacao {
+  flex: 1;
   margin: 10% 15%;
   display: flex;
   align-items: center;
